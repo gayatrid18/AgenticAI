@@ -1,0 +1,70 @@
+[{
+    "model":"Open AI",
+    "metrics":[{
+    "question":"Leave Policies",
+    "accuracy": 100,
+    "hallucination": 0,
+    "responseSpeed": "3.65 seconds",
+    "tokenPerQuery": "651"},
+{
+    "question":"Remote work rules",
+    "accuracy": 100,
+    "hallucination": 0,
+    "responseSpeed": "2.23 seconds",
+    "tokenPerQuery": "629"},
+
+    {
+    "question":"Startup pricing model",
+    "accuracy": 100,
+    "hallucination": 0,
+    "responseSpeed": " 2.24 seconds",
+    "tokenPerQuery": "467"}
+],
+    "easeOfSetup": "easy"},
+    {
+    "model":"Gemini",
+    "metrics":[{
+    "question":"Leave Policies",
+    "accuracy": 100,
+    "hallucination": 0,
+    "responseSpeed": "1.64 seconds",
+    "tokenPerQuery": "778"},
+{
+    "question":"Remote work rules",
+    "accuracy": 100,
+    "hallucination": 0,
+    "responseSpeed": "1.42 seconds",
+    "tokenPerQuery": "810"},
+
+    {
+    "question":"Startup pricing model",
+    "accuracy": 100,
+    "hallucination": 0,
+    "responseSpeed": "1.60 seconds",
+    "tokenPerQuery": "685"}
+],
+    "easeOfSetup": "easy"},
+    {
+    "model":"Ollama",
+    "metrics":[{
+    "question":"Leave Policies",
+    "accuracy": 50,
+    "hallucination": 0,
+    "responseSpeed": "18.20 seconds",
+    "tokenPerQuery": "695"},
+{
+    "question":"Remote work rules",
+    "accuracy": 70,
+    "hallucination": 30,
+    "responseSpeed": "18.24 seconds",
+    "tokenPerQuery": "711"},
+
+    {
+    "question":"Startup pricing model",
+    "accuracy": 100,
+    "hallucination": 0,
+    "responseSpeed": "17.04 seconds",
+    "tokenPerQuery": "529"}
+],
+    "easeOfSetup": "moderate, needs llm and embeddings models locally"}
+]

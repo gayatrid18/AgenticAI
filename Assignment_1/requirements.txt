@@ -1,0 +1,12 @@
+ipykernel
+python-dotenv
+langchain-community
+pypdf
+langchain
+langchain-openai
+faiss-cpu
+streamlit
+langchain-core
+langchain-google-genai
+langchain-ollama
+ollama
